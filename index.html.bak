@@ -1,0 +1,54 @@
+<!doctype html>
+<head>
+  <title>Page title</title>
+  <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+
+<body>
+<hr />
+<img src="logo.png" width-"100" height="100">
+
+<h1>Mill City Lutherie</h1>
+
+<div id="contact">
+<ul>
+<p>I started out repairing musical intruments and now create my own guitars. Each instument is crafted with significant refinements, ensuring thier uniqueness and quality. They are built one at a time, so please make an appointment to see the difference first hand.</p>
+</ul>
+</div>
+
+<div id="contact">
+<h2>Contact</h2>
+<ul>
+  <li><strong>Phone:</strong> 612-666-0004</li>
+  <li><strong>E-mail:</strong> info@millcitylutherie.com</li>
+
+</ul>
+</div>
+<ul>
+
+
+<img src="work.png" width-"300" height="275"/>
+
+</ul>
+
+
+
+<h2>Models</h2>
+
+<nav>
+  <ul>
+    <li><a href="#">Longfelow</a></li>
+    <li><a href="#">Hennepin</a></li>
+    <li><a href="#">Minnehaha</a></li>
+  </ul>
+</nav>
+
+
+<style>
+body{
+  background-image: url("Background.png");
+
+}
+
+</body>
+</html>
